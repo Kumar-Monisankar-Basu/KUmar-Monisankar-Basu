@@ -16,7 +16,8 @@
 ![](https://gtce.itsvg.in/api?username=mlcodingwizard&theme=radical&icon=thunder)
 
 ### ✍️ Random Dev Quote
-[](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<!-- [](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kumar-Monisankar-Basu&icon=0&color=0)](https://visitcount.itsvg.in)
