@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m Currently Working On Machine Learning<br>👯 I’m Looking To Collaborate On ML , DL Projects<br>🌱 I’m Currently Learning LLm<br>💬 Ask Me About ML , DL , AI<br>⚡ Fun Fact I Love Phuchka
+🔭 I’m Currently Working On Machine Learning<br>👯 I’m Looking To Collaborate On ML , DL Projects<br>🌱 I’m Currently Learning LLm<br>💬 Ask Me About ML , DL , AI<br>⚡ Fun Fact I Love Phuchka <br>📞 Contact : mlcodingwizard@gmail.com
+
 
 
 ## 🌐 Socials:
