@@ -1,26 +1,141 @@
-# 💫 About Me:
-🔭 I’m Currently Working On Machine Learning<br>👯 I’m Looking To Collaborate On ML , DL Projects<br>🌱 I’m Currently Learning LLm<br>💬 Ask Me About ML , DL , AI<br>⚡ Fun Fact I Love Phuchka <br>📞 Contact : mlcodingwizard@gmail.com
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/name.svg" alt="Marton Lederer" />
+</h1>
+
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00A4&center=true&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+page!;+I'm+a+passionate+Python+developer+;+specializing+in+Machine+Learning+" alt="Typing SVG" /></a>
+</h2>
+
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Kumar Monisankar Basu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+<br>
+🔭 I’m Currently Working On Machine Learning<br>👯 I’m Looking To Collaborate On Machine-Learning & NLP Projects<br>🌱 I’m Currently Learning Robotics & LLM<br>💬 Ask Me About Machine-Learning & Deep-Learning<br>⚡ Fun Fact I Love Phuchka <br>📞 Contact : mlcodingwizard@gmail.com
+
+### :page_with_curl: I'm Currently Learning:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+<br/>
+
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/python.svg"></a>
+
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/firebase.svg" alt="firebase" height ="42px"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/javascript.svg"> </a>
+
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/react.svg"></a>
+
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/node.svg"></a>
+
+<a href="https://go.dev/" target="_blank"><img align="left" alt="GO" height ="42px" src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/go.svg"></a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/square/git-scm.svg" height='42px'/> </a>
+
+<br>
+
+<h1>📊 Github Stats and Activity</h1>
+ 
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+    <a href="https://github.com/Kumar-Monisankar-Basu/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kumar-Monisankar-Basu's streak" src="https://streak-stats.demolab.com/?user=Kumar-Monisankar-Basu&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Kumar-Monisankar-Basu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Monisankar-Basu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kumar-Monisankar-Basu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kumar-Monisankar-Basu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<br>
 
 
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MLcodingwizard) 
+<td valign="top" width="50%">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kumar-Monisankar-Basu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Monisankar-Basu&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Monisankar-Basu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#### 🏊‍♂️ Weekly Development Breakdown
 
-## 🐦 Latest Tweet
-![](https://gtce.itsvg.in/api?username=mlcodingwizard&theme=radical&icon=thunder)
+![light](https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 
-### ✍️ Random Dev Quote
-<!-- [](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+![dark](https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/wakatime_weekly_language_stats_black.svg)
+
+</td>
+
+<br>
+
+### 🏆 Dooboo lab's github stats
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=Kumar-Monisankar-Basu" width="600" /></a>
+
+<br/>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Kumar = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Go",],
+    askMeAbout: ["Machine-Learning", "Neural-Network", "NLP", "LLM"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            Pyhton: ["Django" , "Flask"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase","supabase", "open-cv","php"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications","microservices", "event-driven", "design system pattern"],
+    currentFocus: "No Focus point at this time",
+    challenge: "I am doing the #100DaysOfCode challenge focused on python and Machine-Learning",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<br>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Kumar-Monisankar-Basu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/MLcodingwizard" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mlcodingwizard" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
+</p>
+
+<br/>
+
+<h3 align='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> </h3>
+
+<br/>
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/Bottom.svg" alt="Github Stats" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kumar-Monisankar-Basu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
